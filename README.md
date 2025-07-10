@@ -41,10 +41,9 @@
 </div>
 
 ---
-## 🛠️ Languages & Tools
+## 🛠️ Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kall211&theme=dark" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Kall211&theme=dark" />
 </div>
 <hr/>
@@ -52,7 +51,7 @@
 ## 🛠️ Featured Projects
 
 
-<h3><u><strong><i>LOGARITHM GAMES Mint</i></strong></u> &nbsp;(NFT Mint : BNB)</h3>
+<h4><u><strong><i>⭐LOGARITHM GAMES Mint</i></strong></u> &nbsp;(NFT Mint : BNB)</h4>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/76518f3c-1336-4718-9baf-7d1585eecb75">
@@ -68,7 +67,7 @@
 
 <br />
 
-<h3><u><strong><i>Purechain Capital</i></strong></u></h3>
+<h4><u><strong><i>Purechain Capital</i></strong></u></h4>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/756c34b2-2d3a-4637-af41-6ab7521b0edc">
@@ -82,7 +81,7 @@
 
 <br />
 
-<h3><u><strong><i>DotBet</i></strong></u> &nbsp;(Casino)</h3>
+<h4><u><strong><i>DotBet</i></strong></u> &nbsp;(Casino)</h4>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/526870a9-1a0e-439a-ad7d-54cbcdb3cf08">
@@ -96,7 +95,7 @@
 
 <br />
 
-<h3><u><strong><i>Logarithm Games</i></strong></u></h3>
+<h4><u><strong><i>Logarithm Games</i></strong></u></h4>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/b8202114-a0d0-4791-bbee-e06e27d5b08f">
@@ -110,7 +109,7 @@
 
 <br />
 
-<h3><u><strong><i>Woman Lif3 Fr33dom</i></strong></u></h3>
+<h4><u><strong><i>Woman Lif3 Fr33dom</i></strong></u></h4>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/4b6e9b02-6d88-4601-8c94-d78a81d51d76">
@@ -124,7 +123,7 @@
 
 <br />
 
-<h3><u><strong><i>Unjabbed Dating</i></strong></u></h3>
+<h4><u><strong><i>Unjabbed Dating</i></strong></u></h4>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/8a3808e5-6ecf-448a-b642-98bac2a446a6">
