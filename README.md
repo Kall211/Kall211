@@ -44,10 +44,10 @@
 ## 🛠️ Languages & Tools
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kall211&theme=dark" align="left" width="50%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kall211&theme=dark" align="left" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kall211&theme=dark" align="left" width="100%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kall211&theme=dark" align="left" width="100%">
 </div>
-
+<hr/>
 ---
 
 ## 🛠️ Featured Projects
