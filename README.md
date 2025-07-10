@@ -49,7 +49,9 @@
 </div>
 
 ---
-<div align="center">
+
+## 🛠️ Featured Projects
+
 
 <h3><u><strong><i>LOGARITHM GAMES Mint</i></strong></u> &nbsp;(NFT Mint : BNB)</h3>
 <hr />
@@ -136,4 +138,3 @@
 - Project repo: <a href="https://github.com/lendon1114/Dating-ui">Unjabbed-Dating-front-end</a>
 
 <br />
-</div>
