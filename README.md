@@ -6,7 +6,7 @@
 </div>
 <br/>
 <p align="left">
-    Just call me<b>Kall</b>, A random person who loves to fool around in his spare time and occasionally codes Crypto games using <code>Unity C#</code> maybe I'm not the best at it, but I have fun doing it and it is my dream, which is what counts, right?
+    Just call me <b>Kall</b>, A random person who loves to fool around in his spare time and occasionally codes Crypto games using <code>Unity C#</code> maybe I'm not the best at it, but I have fun doing it and it is my dream, which is what counts, right?
 </p> 
 
 <p align="left">
