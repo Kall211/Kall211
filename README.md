@@ -18,15 +18,13 @@
     </a>
 </p>
 ---
-- 🧰 I’m currently working on Metaverse shop.
-- 👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
-
+ 🧰 I’m currently working on Metaverse shop.
 ---
 
 ## 🛠️ Languages & Tools
 
 <div align="center">
-   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
@@ -34,7 +32,11 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Solana-00DC8E?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img src="https://img.shields.io/badge/Sui-000000?style=for-the-badge&logo=sui&logoColor=white" />
+<img src="https://img.shields.io/badge/NFT-FF007A?style=for-the-badge&logo=nft&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-F9A825?style=for-the-badge&logo=webgl&logoColor=white" />
 </div>
 
 ---
@@ -54,6 +56,6 @@
 
 <div align="center">
     <h2>📖 Stats</h2>
-    [<img src="https://github-readme-stats.vercel.app/api?username=Kall211&theme=dark" align="left" width="50%" />]
-    [<img src="https://github-readme-streak-stats.herokuapp.com?user=Kall211&theme=dark" align="right" width="50%" />]
+    [<img src="https://github-readme-stats.vercel.app/api?username=Kall211&theme=dark" align="left" width="47%" />]
+    [<img src="https://github-readme-streak-stats.herokuapp.com?user=Kall211&theme=dark" align="right" width="47%" />]
 </div>
