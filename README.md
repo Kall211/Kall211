@@ -6,11 +6,11 @@
 </div>
 <br/>
 <p align="left">
-    I'm <b>JustEvil</b>, A random person who loves to fool around in his spare time and occasionally codes discord bots using <code>JS / TS</code> maybe I'm not the best at it, but I have fun doing it, which is what counts, right?
+    Just call me<b>Kall</b>, A random person who loves to fool around in his spare time and occasionally codes Crypto games using <code>Unity C#</code> maybe I'm not the best at it, but I have fun doing it and it is my dream, which is what counts, right?
 </p> 
 
 <p align="left">
-    <a href="https://twitter.com/@NewJustEvil" target="_blank">
+    <a href="https://x.com/@kall10000" target="_blank">
         <img src="https://img.shields.io/badge/NewJustEvil-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@NewJustEvil" />
     </a>
     <a href="https://discordapp.com/users/391283181665517568" target="_blank">
@@ -18,7 +18,7 @@
     </a>
 </p>
 
-- 🧰 I’m currently working on **Ganyu** a discord bot.
+- 🧰 I’m currently working on **Karting** a discord bot.
 - 👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
 - 📫 I made things in my free time.
 - 📦 Owner of **[Ganyu Studios](https://github.com/Ganyu-Studios)**.
@@ -40,13 +40,16 @@
 ---
 
 <div align="center">
-    <h2>✨ Actitity</h2>
+    <h2>✨ Recently Activity</h2>
     <a href="https://discordapp.com/users/391283181665517568" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/391283181665517568" />
     </a>
     <br/>
-    <a href="https://open.spotify.com/user/lcjpn1qvagz3nkokz9ly82e50" target="_blank">
+    <!-- <a href="https://open.spotify.com/user/lcjpn1qvagz3nkokz9ly82e50" target="_blank">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=lcjpn1qvagz3nkokz9ly82e50" />
+    </a> -->
+    <a href="https://steamcommunity.com/profiles/76561199847022879/" target="_blank">
+        <img src="https://steam-box.vercel.app/api/profile?username=Kall23890" alt="Steam profile" />
     </a>
 </div>
 
