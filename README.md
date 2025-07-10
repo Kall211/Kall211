@@ -45,11 +45,11 @@
         <img src="https://lanyard.cnrad.dev/api/391283181665517568" />
     </a>
     <br/>
-    <!-- <a href="https://open.spotify.com/user/lcjpn1qvagz3nkokz9ly82e50" target="_blank">
+    <a href="https://open.spotify.com/user/lcjpn1qvagz3nkokz9ly82e50" target="_blank">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=lcjpn1qvagz3nkokz9ly82e50" />
-    </a> -->
+    </a>
     <a href="https://steamcommunity.com/profiles/76561199847022879/" target="_blank">
-        <img src="https://steam-box.vercel.app/api/profile?username=Kall23890" alt="Steam profile" />
+        <img src="https://steam-box.vercel.app/api/profile?username=Kall211" alt="Steam profile" />
     </a>
 </div>
 
@@ -57,6 +57,6 @@
 
 <div align="center">
     <h2>📖 Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Kall211&theme=dark" align="left" width="600" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kall211&theme=dark" align="right" width="600" />
+    [<img src="https://github-readme-stats.vercel.app/api?username=Kall211&theme=dark" align="left" width="50%" />]
+    [<img src="https://github-readme-streak-stats.herokuapp.com?user=Kall211&theme=dark" align="right" width="50%" />]
 </div>
