@@ -51,7 +51,7 @@
 ## 🛠️ Featured Projects
 
 
-<h4><u><strong><i>⭐LOGARITHM GAMES Mint</i></strong></u> &nbsp;(NFT Mint : BNB)</h4>
+<h4><u><strong>⭐ &nbsp;LOGARITHM GAMES Mint</strong></u> &nbsp;(NFT Mint : BNB)</h4>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/76518f3c-1336-4718-9baf-7d1585eecb75">
@@ -67,7 +67,7 @@
 
 <br />
 
-<h4><u><strong><i>Purechain Capital</i></strong></u></h4>
+<h4><u><strong>⭐ &nbsp;LOGARITHM GAMES Mint</strong></u></h4>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/756c34b2-2d3a-4637-af41-6ab7521b0edc">
@@ -81,58 +81,3 @@
 
 <br />
 
-<h4><u><strong><i>DotBet</i></strong></u> &nbsp;(Casino)</h4>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/526870a9-1a0e-439a-ad7d-54cbcdb3cf08">
-<div>This site is a site that connects game sites and is an intermediary site that shows and allows users to use many game servers. </div>
-<div>I added AWC games here and made them available.</div>
-
-<div>- DotBet Project : React.js, Javascript, Tailwind CSS, Node.js </div>
-
-- Live: <a href="https://dotbet.com/">Dot Bet</a>
-- Project repo: <a href="https://github.com/lendon1114/dotbet-FE">Dot-Bet</a>
-
-<br />
-
-<h4><u><strong><i>Logarithm Games</i></strong></u></h4>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/b8202114-a0d0-4791-bbee-e06e27d5b08f">
-<div>The developer of the first political mobile and computer gamesbased on the play and watch-to earn method with the opportunity to earn the company is main token - LOGG Token, the first multiplier of games with visual integration of ad units.</div>
-<div>I performed the contract part and some front-end parts here.</div>
-
-<div>- Logarithm Games Project : ✔Smart contract ✔HTML ✔CSS ✔JavaScript ✔JQuery </div>
-
-- Live: <a href="https://logarithm-games.vercel.app/">Logarithm Games</a>
-- Project repo: <a href="https://github.com/lendon1114/logarithm-games">Logarithm-Games</a>
-
-<br />
-
-<h4><u><strong><i>Woman Lif3 Fr33dom</i></strong></u></h4>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/4b6e9b02-6d88-4601-8c94-d78a81d51d76">
-<div>Woman Lif3 Fr33dom is an NFT mint site to help Iranian women fight for freedom.</div>
-<div>I performed the front-end part here.</div>
-
-<div>- Logarithm Games Project : ✔Smart contract ✔HTML ✔CSS ✔JavaScript ✔JQuery </div>
-
-- Live: <a href="https://0xwlf.io/">Woman Lif3 Fr33dom</a>
-- Project repo: <a href="https://github.com/lendon1114/NFT-mint">Woman-Lif3-Fr33dom</a>
-
-<br />
-
-<h4><u><strong><i>Unjabbed Dating</i></strong></u></h4>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/8a3808e5-6ecf-448a-b642-98bac2a446a6">
-<div>Unjabbed is Dating site.</div>
-<div>At Unjabbed, our mission is to create a safe, inclusive, and supportive space for unvaccinated individuals seeking meaningful connections.</div>
-
-<div>- Unjabbed Dating Project : ✔React ✔Javascript ✔Firebase ✔Tailwind CSS </div>
-
-- Live: <a href="https://unjabbed.vercel.app/">Unjabbed Dating</a>
-- Project repo: <a href="https://github.com/lendon1114/Dating-ui">Unjabbed-Dating-front-end</a>
-
-<br />
