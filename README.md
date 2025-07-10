@@ -17,24 +17,24 @@
         <img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="JustEvil" />
     </a>
 </p>
-
-- 🧰 I’m currently working on **Karting** a discord bot.
+---
+- 🧰 I’m currently working on Metaverse shop.
 - 👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
-- 📫 I made things in my free time.
-- 📦 Owner of **[Ganyu Studios](https://github.com/Ganyu-Studios)**.
-- 🐐 A cocogoat (Ganyu) fan... She is really cute.
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+
 </div>
 
 ---
@@ -45,9 +45,6 @@
         <img src="https://lanyard.cnrad.dev/api/391283181665517568" />
     </a>
     <br/>
-    <a href="https://open.spotify.com/user/lcjpn1qvagz3nkokz9ly82e50" target="_blank">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=lcjpn1qvagz3nkokz9ly82e50" />
-    </a>
     <a href="https://steamcommunity.com/profiles/76561199847022879/" target="_blank">
         <img src="https://steam-box.vercel.app/api/profile?username=Kall211" alt="Steam profile" />
     </a>
