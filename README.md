@@ -58,5 +58,5 @@
 <div align="center">
     <h2>📖 Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=EvilG-MC&theme=dark" align="left" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=EvilG-MC&theme=dark" align="right />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=EvilG-MC&theme=dark" align="right" />
 </div>
