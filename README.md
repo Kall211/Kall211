@@ -57,6 +57,12 @@
 
 <div align="center">
     <h2>📖 Stats</h2>
-    [<img src="https://github-readme-stats.vercel.app/api?username=Kall211&theme=dark" align="left" width="50%">]
-    [<img src="https://github-readme-streak-stats.herokuapp.com?user=Kall211&theme=dark" align="right" width="50%">]
+    <img src="https://github-readme-stats.vercel.app/api?username=Kall211&theme=dark" align="left" width="50%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kall211&theme=dark" align="left" width="50%">
+</div>
+
+
+---
+<div align="center">
+
 </div>
